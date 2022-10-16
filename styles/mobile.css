@@ -1,4 +1,5 @@
-@media (max-width: 460px) {
+@media (max-width: 500px) {
+
     #spread {
         display: flex;
         flex-direction: column;
